@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Task Manager Pro
+# 🚀 Task Manager
 
 ### *Professional Task Management Application*
 
