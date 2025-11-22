@@ -10,7 +10,7 @@
 ![React](https://img.shields.io/badge/React-18.3.1-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![V0](https://img.shields.io/badge/V0-AI%20Builder-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-**Un gestor de tareas avanzado construido con las tecnologías más modernas del desarrollo web y el constructor de vercel v0**
+**Un gestor de tareas avanzado construido con las tecnologías modernas del desarrollo web, usando el constructor IA v0.**
 
 [🌐 **Ver Demo en Vivo**](https://task-manager-1vnzvl6v4-benjaminmillalonc-6594s-projects.vercel.app) • [📂 **Código Fuente**](https://github.com/hxcCoder/task-manager-pro) • [👨‍💻 **Mi Portfolio**](https://github.com/hxcCoder)
 
