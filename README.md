@@ -4,6 +4,7 @@
 
 ### *Professional Task Management Application*
 
+
 ![Next.js](https://img.shields.io/badge/Next.js-14.2.5-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.5.3-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4.17-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -15,6 +16,14 @@
 
 ---
 
+### 📸 **Capturas de Pantalla**
+![5](https://github.com/user-attachments/assets/05bc1108-745c-432a-9287-f33e7e6d3847)
+---
+![22](https://github.com/user-attachments/assets/dceb0ce1-4335-4e2b-9689-d82c65a06c6f)
+---
+![333](https://github.com/user-attachments/assets/04fa5ebd-9cca-48e2-a83f-d52a9cbb57a9)
+---
+<div align="center"> 
 </div>
 
 ## 📋 **Tabla de Contenidos**
@@ -71,14 +80,6 @@
 ### 🌐 **Demo en Vivo**
 **[👉 Probar la Aplicación](https://task-manager-pro-git-main-benjaminmillalonc-6594s-projects.vercel.app)**
 
-### 📸 **Capturas de Pantalla**
-![5](https://github.com/user-attachments/assets/05bc1108-745c-432a-9287-f33e7e6d3847)
----
-![22](https://github.com/user-attachments/assets/dceb0ce1-4335-4e2b-9689-d82c65a06c6f)
----
-![333](https://github.com/user-attachments/assets/04fa5ebd-9cca-48e2-a83f-d52a9cbb57a9)
----
-<div align="center">
 
 #### 🏠 **Landing Page**
 *Página de inicio profesional con diseño moderno*
