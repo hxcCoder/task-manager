@@ -47,14 +47,6 @@
 - 🎯 **Tasa de Completación** - Métricas de productividad
 - 📱 **Diseño 100% Responsive** - Funciona perfectamente en todos los dispositivos
 
-### 🎨 **Experiencia de Usuario**
-- 🌟 **Interfaz Moderna** - Diseño limpio y profesional
-- ⚡ **Rendimiento Optimizado** - Carga instantánea y navegación fluida
-- 🎭 **Animaciones Suaves** - Transiciones y efectos visuales elegantes
-- ♿ **Accesibilidad** - Cumple estándares WCAG para todos los usuarios
-
----
-
 ## 🛠️ **Stack Tecnológico**
 
 <div align="center">
@@ -73,7 +65,7 @@
 - **Iconos**: Lucide React para iconografía moderna
 - **Estado**: React Hooks (useState, useEffect) para gestión de estado
 - **Persistencia**: localStorage para almacenamiento local
-
+- 
 ---
 
 ### 🌐 **Demo en Vivo**
